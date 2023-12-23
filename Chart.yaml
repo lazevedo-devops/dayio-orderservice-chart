@@ -1,0 +1,4 @@
+apiVersion: v1
+description: Helm Chart for Day-io Order Service app.
+name: dayio-orderservice
+version: 1.0.0
